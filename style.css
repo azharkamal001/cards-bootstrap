@@ -1,0 +1,52 @@
+.container-main {
+    height:100vh;
+    
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+
+}
+
+.text {
+    display:flex;
+    justify-content: space-between;
+}
+
+.text2 {
+    display:flex;
+    justify-content: space-between;
+    opacity:0.5;
+}
+.image {
+    width:100%;
+    height:270px;
+    background: url('https://images.unsplash.com/photo-1505322022379-7c3353ee6291?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bmlnaHR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60');
+    background-size: cover;
+}
+
+.icons {
+    display:flex;
+    justify-content: space-between;
+}
+
+.container-main {
+    font-family: 'Bungee Spice', cursive;
+font-family: 'Noto Serif Khitan Small Script', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+}
+
+.card {
+    margin-left:60px;
+    box-shadow: 2px 2px 20px;
+}
+
+
+
+.image2 {
+    width:100%;
+    height:270px;
+    background: url('https://media.istockphoto.com/id/1336306055/photo/grey-and-red-umbrellas-under-a-strong-rain-blurred-background-narrow-angle-view-nature-and.webp?b=1&s=170667a&w=0&k=20&c=5KUcsVJzZsVywuqeZc-K_JIg7-DirCjpbYjL3Dr2MEA=');
+    background-size: cover;
+    
+}
